@@ -1,8 +1,6 @@
 ## NBA-LEGENDS
 
 ## Demo Link: https://nba-legends-mu.vercel.app/
-
-</br>
 </br>
 <p>About Project: In this project our aim is to show NBA players in cards. There is a searchbar for searching players. We can click the player cards for activating the other side
 of the card which includes the stats of that player. </p>
