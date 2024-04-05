@@ -4,7 +4,7 @@
 
 ## About Project
 <p>In this project our aim is to show NBA players and their stats in cards. There is a searchbar for searching players. We can click the player cards for activating the other side of the card which shows the stats of that player. </p>
-<p><b>What technologies and topics were studied in this project?</b></p>
+<p><b>What technologies and topics were used in this project?</b></p>
 <ul>
     <li>React.js</li>
     <li>Props</li>
