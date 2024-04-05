@@ -10,6 +10,7 @@
     <li>Props</li>
     <li>React.js Hooks (for this project useState hook)</li>
     <li>Javascript algorithms</li>
+    <li>React-bootstrap</li>
 </ul>
 
 ## Project Skeleton
