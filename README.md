@@ -24,9 +24,9 @@ NBA-LEGENDS(folder)
 │    ├── assets
 │    │       └── [images]
 │    ├── components
-│    │       ├── CardContainer.js
-│    │       ├── Header.js
-│    │       └── PlayerCard.js
+│    │       ├── CardContainer.jsx
+│    │       ├── Header.jsx
+│    │       └── PlayerCard.jsx
 │    ├── helper
 │    │       └── data.js
 │    ├── App.js
